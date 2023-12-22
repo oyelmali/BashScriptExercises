@@ -1,0 +1,86 @@
+YARIYIL	;DERSÝN KODU	;DERSÝN ADI						;TEORÝK	;UYGULAMA	;KREDÝ	;KATEGORÝ
+
+1	;BM101		;BÝLGÝSAYAR MÜHENDÝSLÝÐÝNE GÝRÝÞ			;2	;0		;2	;	
+1	;BM103		;PROGRAMLAMAYA GÝRÝÞ					;3	;2		;4	;
+1	;MAT101		;MATEMATÝK 1						;4	;0		;4	;
+1	;FÝZ101		;FÝZÝK 1						;3	;2		;4	;
+1	;KÝM101		;GENEL KÝMYA						;3	;2		;4	;
+1	;OZD101		;YABANCI DÝL 1						;2	;0		;0	;
+
+2	;BM102		;AYRIK MATEMATÝK					;3	;0		;3	;
+2	;BM104		;NESNEYE YÖNELÝK PROGRAMLAMA				;3	;2		;4	;
+2	;MAT102		;MATEMATÝK 2						;4	;0		;4	;
+2	;FÝZ102		;FÝZÝK 2						;3	;2		;4	;
+2	;MFIST		;OLASILIK VE ÝSTATÝSTÝK					;3	;0		;3	;
+2	;OZD102		;YABANCI DÝL 2						;2	;0		;0	;
+
+3	;BM201		;SAYISAL TASARIM					;3	;2		;4	;
+3	;BM203		;VERÝ YAPILARI VE ALGORÝTMALAR				;3	;0		;3	;
+3	;BM205		;GÖRSEL PROGRAMLAMA					;3	;0		;3	;
+3	;BM207		;PROGRAMLAMA DÝLLERÝ					;3	;0		;3	;
+3	;MAT201		;DÝFERANSÝYEL DENKLEMLER				;3	;0		;3	;
+3	;OZD201		;TÜRK DÝLÝ 1						;2	;0		;0	;
+
+4	;BM202		;BÝLGÝSAYAR ORGANÝZASYONU VE TASARIMI			;3	;0		;3	;	
+4	;BM204		;VERÝ ORGANÝZASYONU VE YÖNETÝMÝ				;3	;0		;3	;	
+4	;BM206		;WEB PROGRAMLAMA					;3	;0		;3	;	
+4	;BM208		;ELEKTRONÝK DEVRELER					;3	;2		;4	;	
+4	;BM210		;SAYISAL YÖNTEMLER					;2	;1		;2.5	;	
+4	;OZD202		;TÜRK DÝLÝ 2						;2	;0		;0	;	
+
+5	;BM301		;ÝÞLETÝM SÝSTEMLERÝ					;3	;0		;3	;
+5	;BM303		;YAZILIM MÜHENDÝSLÝÐÝ					;3	;0		;3	;
+5	;BM305		;MÝKROÝÞLEMCÝLER					;3	;2		;4	;
+5	;BM307		;VERÝ TABANI YÖNETÝM SÝSTEMLERÝ				;3	;0		;3	;
+5	;BM309		;STAJ 1							;0	;0		;0	;
+5	;OZD301		;ATATÜRK ÝLKELERÝ VE ÝNKILAP TARÝHÝ 1			;2	;0		;0	;
+5	;		;BÖLÜM SEÇMELÝ 						;3	;0		;3	;
+
+6	;BM302		;ALGORÝTMALARIN TASARIMI VE ANALÝZÝ			;3	;0		;3	;
+6	;BM304		;VERILOG-HDL ÝLE SAYISAL TASARIM VE SENTEZLEME		;3	;0		;3	;
+6	;BM306		;BÝLGÝSAYAR AÐLARI					;3	;2		;4	;
+6	;BM308		;PARALEL PROGRAMLAMAYA GÝRÝÞ				;3	;0		;3	;
+6	;OZD302		;ATATÜRK ÝLKELERÝ VE ÝNKILAP TARÝHÝ 2			;2	;0		;0	;
+6	;		;BÖLÜM SEÇMELÝ 						;3	;0		;3	;
+
+7	;BM401		;GÖMÜLÜ SÝSTEMLER					;3	;0		;3	;
+7	;BM403		;MAKÝNE ÖÐRENMESÝNE GÝRÝÞ				;3	;0		;3	;
+7	;BM405	 	;BÝTÝRME PROJESÝ 1					;0	;2		;1	;
+7	;BM407		;STAJ 2							;0	;0		;0	;
+7	;BMS403	 	;BÝLGÝSAYAR MÜHENDÝSLÝÐÝ TASARIMI 1			;1	;2		;2	;
+7	;MFEKO		;MÜHENDÝSLÝK EKONOMÝSÝ					;3	;0		;3	;
+7 	;		;FAKÜLTE SOSYAL SEÇMELÝ					;2	;0		;2	;
+7	;		;BÖLÜM SEÇMELÝ 						;3	;0		;3	;
+
+8	;BM402		;OTOMATA TEORÝSÝ					;3	;0		;3	;
+8	;BM404		;KONTROL SÝSTEMLERÝ					;3	;0		;3	;
+8	;BM406		;BÝTÝRME PROJESÝ 2					;0	;2		;1	;
+8	;BMS404		;BÝLGÝSAYAR MÜHENDÝSLÝÐÝ TASARIMI 2 			;1	;2		;2	;
+8	;MFIGE		;ÝÞ GÜVENLÝÐÝ VE MÜHENDÝSLÝK ETÝÐÝ			;2	;0		;2	;
+8	;		;ÜNÝVERSÝTE SEÇMELÝ					;2	;0		;2	;
+8	;		;FAKÜLTE TEKNÝK SEÇMELÝ					;3	;0		;3	;
+8	;		;BÖLÜM SEÇMELÝ 						;3	;0		;3	;
+
+180	;ALM255		;ALMANCA 1 						;3  	;0		;3	;	
+180	;ALM256		;ALMANCA 2 						;3  	;0		;3	;	
+180	;ALM357		;ALMANCA 3 						;3  	;0		;3	;	
+180	;BM405		;PROJE YÖNETÝMÝ						;3  	;0		;3	;
+180	;ÝKT151		;GENEL ÝKTÝSAT						;3  	;0		;3	;
+180	;MUH151		;GENEL MUHASEBE						;3  	;0		;3	;
+180	;THU203		;TOPLUMA HÝZMET UYGULAMALARI				;0  	;2		;1	;
+
+120	;BM309		;YAPAY US						;3	;0		;3	;
+120	;BM423		;YAZILIM MÜHENDÝSLÝÐÝ					;3	;2		;4	;
+120	;BM448		;BÝLGÝSAYAR GRAFÝÐÝ					;3	;0		;3	;
+120	;BM456		;AÐ GÜVENLÝÐÝ PRENSÝPLERÝ				;3 	;0		;3	;
+120	;BM458		;MODELLEME VE SÝMÜLASYON				;3 	;0		;3	;
+120	;BM460		;YAZILIM MODELLEME					;3 	;0		;3	;
+120	;BM464		;ÝNSAN BÝLGÝSAYAR ETKÝLEÞÝMÝ				;3 	;0		;3	;	
+120	;BM470		;SÝNÝR AÐLARI 						;3 	;0		;3	;
+120	;BM472		;GÖRÜNTÜ ÝÞLEME						;3 	;0		;3	;
+120	;BM476		;VERÝ TOPLAMA VE ÝÞLEME					;3 	;0		;3	;
+120	;BM478		;YÖNETÝM BÝLÝÞÝM SÝSTEMLERÝ				;3 	;0		;3	;
+120	;BM482		;AÐ PROGRAMLAMA						;3 	;0		;3	;	
+120	;BM485		;BÝLGÝSAYAR BÝLÝMLERÝNDE ARAÞTIRMA 1			;3	;0		;3	;
+120	;BM486		;BÝLGÝSAYAR BÝLÝMLERÝNDE ARAÞTIRMA 2			;3	;0		;3	;
+120	;BM492		;TASARIM DESENLERÝ					;3	;0		;3	;
