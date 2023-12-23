@@ -1,4 +1,3 @@
-#OMER YUSUF #ELMALI #190707083 #BİLGİSAYAR MÜHENDİSLĞİ #KABUK PROGRAMLAMA #BIS-301-50-50 #2021-2022-GÜZ #PROJE3 #DENİZDAL
 BEGIN{FS=";";uzunluk=0;dersAdi;yariYil;} #sütunların ";" ile ayrıldığını belirtildi ve değişken değerleri verildi
 $1<=8 && length($3)>uzunluk{ #pattern tanımlandı gerekli koşullar sağlanırsa içerdeki actionları gerçekleştir
 	dersAdi=$3; #ders adını değişkene atar
