@@ -14,5 +14,5 @@
   
 * Programı çalıştırmak için aşağıdaki komutlardan birini kullanabilirsiniz.
   
-      $ ./Project1.sh .Turkish.dic 10
-      $./Project1.sh /home/bilgisayar-adi/Turkish.dic 20
+      $ ./Project1.sh .SampleFile.txt
+      $./Project1.sh /home/bilgisayar-adi/SampleFile.txt
